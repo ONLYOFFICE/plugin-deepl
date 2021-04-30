@@ -12,7 +12,7 @@ DeepL is compatible with [self-hosted](https://github.com/ONLYOFFICE/DocumentSer
 
 2. Go to the Plugins tab and click on DeepL.
 
-3. Choose yor target language.
+3. Choose your target language.
 
 4. Alternatively, you can insert text for translation manually. To do so, click Enter text manually on the left panel. Type new text in the field that appears or edit already selected text (this will only affect the translation, the original text will remain unchanged).
 
