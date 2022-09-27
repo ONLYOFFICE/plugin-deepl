@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-deepl. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 Translate the selected text into other languages.
